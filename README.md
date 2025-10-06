@@ -32,7 +32,7 @@ The project explores crime data through **exploratory analysis, classification m
 ## 🧾 Dataset Description & Relevance
 
 **Dataset Name:** Crime Incidents Dataset  
-**Source:** [Download Dataset (GitHub Link)](https://github.com/ManqeleTV/Crime-Analysis-Exam2025/blob/main/crime_data.csv)
+
 
 | Column | Description |
 |---------|-------------|
