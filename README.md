@@ -31,8 +31,7 @@ The project explores crime data through **exploratory analysis, classification m
 
 **Dataset Name:** SouthAfricaCrimeStats.csv, Province Population.csv
               
-**Source** : www.kaggle.com
-
+**Source** : https://www.kaggle.com/code/misterseitz/south-african-crime-statistics-2005-2016
 
 ### 🔹 Relevance Justification
 This dataset is suitable for analyzing **temporal**, **geographical**, and **categorical** crime patterns.  
