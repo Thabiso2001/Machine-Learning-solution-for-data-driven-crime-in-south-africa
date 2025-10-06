@@ -29,17 +29,10 @@ The project explores crime data through **exploratory analysis, classification m
 
 ## 🧾 Dataset Description & Relevance
 
-**Dataset Name:** Crime Incidents Dataset  
+**Dataset Name:** SouthAfricaCrimeStats.csv, Province Population.csv
+              
 
 
-| Column | Description |
-|---------|-------------|
-| `date` | Date/time of recorded crime incident |
-| `category` | Type of crime (e.g., Theft, Assault, Burglary) |
-| `location` | Area or precinct name |
-| `latitude` | Latitude coordinate of the incident |
-| `longitude` | Longitude coordinate of the incident |
-| Other features | Contextual or engineered predictors used for classification |
 
 ### 🔹 Relevance Justification
 This dataset is suitable for analyzing **temporal**, **geographical**, and **categorical** crime patterns.  
