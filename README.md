@@ -2,13 +2,11 @@
 
 # 🧠 Machine Learning Crime Analysis & Forecast — Final Exam 2025
 
-**Course:** Machine Learning  
-**Exam:** Final Exam 2025  
+
 **Student:** Manqele T.V.  
 **Student Number:** 22304903  
-**Lecturer:** [Lecturer’s Name]  
-**Institution:** [Institution Name]  
-**Date:** October 2025  
+ 
+**Date:** 06 October 2025  
 
 ---
 
